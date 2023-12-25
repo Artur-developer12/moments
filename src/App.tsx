@@ -18,6 +18,13 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="ma://app"
+          target="_blank" rel="noreferrer"
+        >
+          test app
+        </a>
       </header>
     </div>
   );
